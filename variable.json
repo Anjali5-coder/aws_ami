@@ -1,7 +1,5 @@
 {
-
     "aws_access_key": "<enter your access_key>",
     "aws_secret_key": "<enter your secret_key>",
     "ssh_username": "ec2-user"
-
 }
